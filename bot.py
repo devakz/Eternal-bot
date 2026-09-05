@@ -29,7 +29,7 @@ import discord
 from discord import app_commands
 from discord.ext import commands
 
-TOKEN = os.getenv("DISCORD_TOKEN", "COLE_SEU_TOKEN_AQUI")
+TOKEN = os.getenv("DISCORD_TOKEN", "MTU0NTgwOTIwNjg4MjQ3NjExMg.GwI2hh.J5vbfye_gzK8ymhOlAT1U2VRFPq2Oi_xDttG_g")
 
 # --- Integração opcional com Gemini (chat inteligente) ---
 # Deixe em branco / não configure a variável de ambiente para usar só as respostas fixas.
